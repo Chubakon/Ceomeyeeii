@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="app.ceomeyei.com.ceomeyei.perfil_usuario">
+
+    <RelativeLayout
+        android:layout_width="350dp"
+        android:layout_height="543dp"
+        tools:layout_editor_absoluteX="17dp"
+        tools:layout_editor_absoluteY="11dp">
+
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/nombre_perfil"
+        android:layout_width="165dp"
+        android:layout_height="197dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginEnd="125dp"
+        tools:layout_editor_absoluteX="122dp"
+        tools:layout_editor_absoluteY="185dp" />
+
+</android.support.constraint.ConstraintLayout>

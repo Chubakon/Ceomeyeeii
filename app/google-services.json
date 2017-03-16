@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "945957122658",
+    "firebase_url": "https://ceomeyei-5563e.firebaseio.com",
+    "project_id": "ceomeyei-5563e",
+    "storage_bucket": "ceomeyei-5563e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945957122658:android:961b1e36650b4957",
+        "android_client_info": {
+          "package_name": "app.ceomeyei.com.loggingeneral"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "945957122658-h5qgs9c4v6vefp0mersobfg45ec63aoc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.ceomeyei.com.loggingeneral",
+            "certificate_hash": "4a4b5128d113883cd2400ba59d8cedb6f0d4a351"
+          }
+        },
+        {
+          "client_id": "945957122658-kreaptljd3cbs1c6q6f91g0lmtd3701o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8bg_DPcAWpbKPnwtEVmMRhRVT6yj2GuM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "945957122658-kreaptljd3cbs1c6q6f91g0lmtd3701o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
